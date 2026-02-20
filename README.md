@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Foundry_Company.jpg" alt="The Foundry Company" width="700"/>
+  <img src="Foundry_Company.jpg" alt="The Foundry Company" width="700"/>
 </p>
 <h3 align="center">Full-Suite Construction Services for CivMC</h3>
 
