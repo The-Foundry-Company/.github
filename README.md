@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/foundry_company_banner.jpg" alt="The Foundry Company" width="700"/>
+  <img src="https://civwiki.org/wiki/File:Foundry_Company.jpg" alt="The Foundry Company" width="700"/>
 </p>
 
 <h3 align="center">Full-Suite Construction Services for CivMC</h3>
